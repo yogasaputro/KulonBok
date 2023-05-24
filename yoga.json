@@ -1,0 +1,107 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Khalid Basalamah",
+      "image": "file:///android_asset/image/khalid.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Hanan Attaki",
+      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Mr. Kim",
+      "image": "file:///android_asset/image/kim.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "Ammi Nur Bait",
+      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Adi Hidayat",
+      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Khalid Basalamah",
+      "title": "Paksakan Ibadah",
+      "image": "https://carapandang.com/assets/images/news/carapandang-30506.jpg",
+      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/paksakan_ibadah.mp3",
+      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>" },
+    {
+      "id": 2,
+      "name_category": "Khalid Basalamah",
+      "title": "Dosa Membawa Keburukan",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "mp3/dosa_membawa_keburukan.ogg",
+      "lyrics": "<p style=\"text-align: center;\">Tombo ati iku limo perkarane</p>\n<p style=\"text-align: center;\">Kaping pisan moco Qur&rsquo;an lan maknane</p>\n<p style=\"text-align: center;\">Kaping pindo sholat wengi lakonono</p>\n<p style=\"text-align: center;\">Kaping telu wong kang sholeh kumpulono</p>\n<p style=\"text-align: center;\">Kaping papat kudu weteng ingkang luwe</p>\n<p style=\"text-align: center;\">Kaping limo dzikir wengi ingkang suwe</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Salah sawijine sopo bisa ngelakoni</p>\n<p style=\"text-align: center;\">Mugi-mugi gusti Allah nyembadani</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Obat hati ada lima perkaranya</p>\n<p style=\"text-align: center;\">Yang pertama baca Qur'an dan maknanya</p>\n<p style=\"text-align: center;\">Yang kedua sholat malam dirikanlah</p>\n<p style=\"text-align: center;\">Yang ketiga berkumpullah dengan orang sholeh</p>\n<p style=\"text-align: center;\">Yang keempat perbanyaklah berpuasa</p>\n<p style=\"text-align: center;\">Yang kelima dzikir malam perbanyaklah</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Salahsatunya siapa bisa menjalani</p>\n<p style=\"text-align: center;\">Moga-moga Gusti Allah mencukupi</p>" },
+    {
+      "id": 3,
+      "name_category": "Hanan Attaki",
+      "title": "Lapang Dada",
+      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg",
+      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/lapang_dada.mp3",
+      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
+    },
+    {
+      "id": 4,
+      "name_category": "Ammi Nur Bait",
+      "title": "Cambuk Untuk Kita Semua",
+      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg",
+      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/cambuk.mp3",
+      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
+    }
+  ,
+    {
+      "id": 5,
+      "name_category": "Adi Hidayat",
+      "title": "Selalu Tenang karena ada Allah",
+      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg",
+      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/tenang.mp3",
+      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
+    }
+  ,
+    {
+      "id": 6,
+      "name_category": "Mr. Kim",
+      "title": "Source Code Mp3 Player",
+      "image": "file:///android_asset/image/kim.jpeg",
+      "link_mp3": "mp3/kim.ogg",
+      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
+    }
+  ]
+}
